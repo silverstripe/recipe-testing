@@ -6,6 +6,7 @@ and CMS ([http://silverstripe.org](http://silverstripe.org)).
 This includes the components:
 
  * [phpunit](https://github.com/sebastianbergmann/phpunit): PHP Unit Testing framework.
+ * [php-codesniffer](https://github.com/squizlabs/PHP_CodeSniffer): PHP coding standards validator.
  * [behat-extension](https://github.com/silverstripe/silverstripe-behat-extension): SilverStripe behat testing
    framework extension.
  * [silverstripe server](https://github.com/silverstripe/silverstripe-serve): SilverStripe basic server built
