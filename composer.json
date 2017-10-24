@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "silverstripe/recipe-plugin": ">=0.1@dev <1.0",
+        "silverstripe/recipe-plugin": "^1",
         "silverstripe/recipe-core": "^1@dev",
         "phpunit/phpunit": "^5.7",
         "silverstripe/behat-extension": "^3",
