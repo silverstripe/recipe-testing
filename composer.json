@@ -22,10 +22,7 @@
         "project-files": [
             "behat.yml",
             "*.xml.dist"
-        ],
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
+        ]
     },
     "minimum-stability": "dev",
     "prefer-stable": true
