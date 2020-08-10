@@ -17,3 +17,5 @@ All bootstrapping files, including PHPCS style config, are included.
 
 See the [recipe plugin](https://github.com/silverstripe/recipe-plugin) page for instructions on how
 SilverStripe recipes work.
+
+**Note:** If you are not using Behat for end-to-end testing on your module, it is recommended that you install PHPUnit and CodeSniffer directly.
