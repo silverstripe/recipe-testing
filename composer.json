@@ -12,7 +12,7 @@
         "silverstripe/recipe-plugin": "^1",
         "silverstripe/recipe-core": "^1@dev || ^4@dev",
         "sminnee/phpunit": "^5.7",
-        "silverstripe/behat-extension": "^4.2",
+        "silverstripe/behat-extension": "^4.4",
         "silverstripe/serve": "^2.2",
         "squizlabs/php_codesniffer": "^3"
     },
