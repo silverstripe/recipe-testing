@@ -1,18 +1,8 @@
-<phpunit bootstrap="framework/tests/bootstrap.php" colors="true">
-	<testsuite name="Default">
-		<directory>tests</directory>
-	</testsuite>
-	<groups>
-		<exclude>
-			<group>sanitychecks</group>
-		</exclude>
-	</groups>
-    <filter>
-        <whitelist addUncoveredFilesFromWhitelist="true">
-            <directory suffix=".php">.</directory>
-            <exclude>
-                <directory suffix=".php">tests/</directory>
-            </exclude>
-        </whitelist>
-    </filter>
+<phpunit bootstrap="vendor/silverstripe/framework/tests/bootstrap.php" colors="true">
+    <testsuites>
+        <testsuite name="recipe-testing">
+            <directory>vendor/silverstripe/behat-extension/tests</directory>
+            <directory>vendor/silverstripe/serve/tests</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
