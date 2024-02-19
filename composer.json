@@ -10,11 +10,11 @@
     ],
     "require": {
         "php": "^8.1",
-        "silverstripe/framework": "^5",
+        "silverstripe/framework": "^6",
         "silverstripe/recipe-plugin": "^2",
         "phpunit/phpunit": "^9.5",
-        "silverstripe/behat-extension": "^5",
-        "silverstripe/serve": "^3",
+        "silverstripe/behat-extension": "^6",
+        "silverstripe/serve": "^4",
         "squizlabs/php_codesniffer": "^3.7"
     },
     "extra": {
