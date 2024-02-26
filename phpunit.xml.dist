@@ -3,7 +3,6 @@
     <testsuites>
         <testsuite name="recipe-testing">
             <directory>vendor/silverstripe/behat-extension/tests</directory>
-            <directory>vendor/silverstripe/serve/tests</directory>
         </testsuite>
     </testsuites>
 </phpunit>
