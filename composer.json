@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.3",
         "silverstripe/framework": "^6",
         "silverstripe/recipe-plugin": "^2",
         "phpunit/phpunit": "^9.5",
