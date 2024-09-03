@@ -22,10 +22,6 @@
             "*.xml.dist"
         ]
     },
-    "conflict": {
-        "symfony/process": "<4.4.44",
-        "symfony/var-exporter": "<4.4.44"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
