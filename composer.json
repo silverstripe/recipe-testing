@@ -26,7 +26,8 @@
     },
     "conflict": {
         "symfony/process": "<4.4.44",
-        "symfony/var-exporter": "<4.4.44"
+        "symfony/var-exporter": "<4.4.44",
+        "behat/gherkin": ">=4.13.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
